@@ -1,5 +1,5 @@
 {
-    "name": "Quit-server",
+    "name": "Quit-klient",
     "description": "",
     "dependencies": {
         "core": "*",
